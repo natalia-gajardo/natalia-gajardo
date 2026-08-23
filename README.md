@@ -36,6 +36,7 @@ Puedes visualizar el proyecto completo en el siguiente enlace:
 
 ## Contacto
 
-Puedes contactarme a través de mi perfil de GitHub.
+Puedes contactarme a través de mi perfil de GitHub para consultas, colaboración y oportunidades relacionadas con proyectos de análisis de datos y transformación digital.
+
 
 📍 Chile

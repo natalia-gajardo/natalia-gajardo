@@ -30,7 +30,9 @@ Este portafolio tiene como objetivo reunir una selección de estos trabajos y mo
 
 Proyecto desarrollado para analizar un conjunto de datos mediante técnicas de exploración, análisis y visualización de información.
 
-Próximamente se incorporará en este portafolio el proyecto completo y su documentación.
+Puedes visualizar el proyecto completo en el siguiente enlace:
+
+[Ver proyecto de Análisis Exploratorio de Datos](https://github.com/natalia-gajardo/natalia-gajardo/blob/main/09_Analisis_Exploratorio_Natalia_Gajardo%20(1)%20(1).ipynb)
 
 ## Contacto
 

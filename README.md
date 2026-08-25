@@ -1,4 +1,4 @@
-# Hola, soy Natalia Gajardo 👋
+# Natalia Gajardo 👋
 
 ## Sobre mí
 

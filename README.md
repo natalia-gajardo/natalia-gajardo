@@ -40,3 +40,26 @@ Puedes contactarme a través de mi perfil de GitHub para consultas, colaboració
 
 
 📍 Chile
+## Sobre este portafolio
+
+Este portafolio fue desarrollado utilizando GitHub como repositorio digital, con el propósito de organizar, almacenar y compartir proyectos realizados durante mi proceso de formación.
+
+### Características del repositorio
+
+- Acceso público a los proyectos seleccionados.
+- Organización centralizada de los trabajos realizados.
+- Almacenamiento y visualización de archivos.
+- Acceso a los proyectos mediante enlaces directos.
+- Registro de cambios y actualizaciones.
+
+### Buenas prácticas aplicadas
+
+- Uso de nombres descriptivos para los proyectos y archivos.
+- Organización clara de la información.
+- Descripción de los proyectos publicados.
+- Uso de enlaces funcionales para facilitar el acceso a los trabajos.
+- Mantención de información profesional relevante y actualizada.
+
+### ¿Por qué elegí GitHub?
+
+Elegí GitHub porque es una plataforma ampliamente utilizada para almacenar, organizar y compartir proyectos digitales. Además, permite presentar mis trabajos de manera accesible y mantener un registro de sus actualizaciones, facilitando que otras personas puedan conocer los proyectos y habilidades que he desarrollado.

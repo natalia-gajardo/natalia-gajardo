@@ -62,4 +62,4 @@ Este portafolio fue desarrollado utilizando GitHub como repositorio digital, con
 
 ### ¿Por qué elegí GitHub?
 
-Elegí GitHub porque es una plataforma ampliamente utilizada para almacenar, organizar y compartir proyectos digitales. Además, permite presentar mis trabajos de manera accesible y mantener un registro de sus actualizaciones, facilitando que otras personas puedan conocer los proyectos y habilidades que he desarrollado
+Elegí GitHub porque es una plataforma ampliamente utilizada para almacenar, organizar y compartir proyectos digitales. Además, permite presentar mis trabajos de manera accesible y mantener un registro de sus actualizaciones, facilitando que otras personas puedan conocer los proyectos y habilidades que he desarrollado.
